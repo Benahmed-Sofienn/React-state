@@ -1,0 +1,16 @@
+img {
+  width: 150px;
+}
+.Background {
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 5%;
+}
+h1,h2,h3,samp {
+  color: aliceblue;
+}
+ 
+
